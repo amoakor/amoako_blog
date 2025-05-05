@@ -6,7 +6,7 @@ website:
   navbar:
     right:
       - text: "Home"
-        file: home.qmd
+        file: index.qmd
       - text: "About"
         file: about.qmd
       - text: "Projects"
