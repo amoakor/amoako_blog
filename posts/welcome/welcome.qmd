@@ -1,0 +1,9 @@
+---
+title: "Conferences"
+author: "Richard Amoako"
+date: "2025-05-01"
+categories: [news]
+image: eers_ccre.jpg
+---
+
+**Eastern Evaluation Research Association (EERS, 2025)**

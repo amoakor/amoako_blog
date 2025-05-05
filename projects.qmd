@@ -1,0 +1,115 @@
+---
+title: "My Porjects"
+image: network.jpg
+about:
+  template: jolla
+---
+
+# **Current Projects**
+
+## ***Topic: Data Visualization and Communication in Evaluation: A Bibliometric Analysis***
+
+![](images/community%20network.jpg){width="436"}
+
+[Download PDF](assets/reports.pdf){target="_blank"}
+
+
+## **Project Overview**
+
+*Introduction*
+
+In an era defined by unprecedented data volume, the ability to effectively visualize and communicate complex information has become critical across disciplines (Kirk, 2019). Within the field of evaluation, data visualization offers powerful tools for enhancing understanding, facilitating stakeholder engagement, and ultimately, informing better decisions (Few, 2012; Evergreen, 2017). As evaluation practice evolves to address increasingly complex social programs and policies, the strategic use of visual displays can transform raw data into actionable insights (Patton, 2018).
+
+Despite the growing recognition of data visualization's potential, the field lacks a comprehensive synthesis of its development, key contributors, and emerging trends. Traditional literature reviews often fall short of capturing the breadth and interdisciplinary nature of this topic. Bibliometric analysis, a quantitative approach to mapping the structure of scientific knowledge, offers a rigorous and systematic alternative (Aria & Cuccurullo, 2017; van Eck & Waltman, 2014). By analyzing publication patterns, citation networks, and keyword co-occurrences, bibliometrics can reveal the intellectual landscape of data visualization in evaluation.
+
+This study employs bibliometric methods using the PRISMA framework to address critical questions about data visualization evolution, key influences, thematic foci, and global distribution of research on data visualization within the evaluation field. Through a comprehensive analysis of scholarly publications, this research aims to provide a valuable resource for researchers, practitioners, and policymakers seeking to understand and leverage the power of data visualization to improve evaluation practice.
+
+***Research Questions***
+
+RQ1- What are the most influential publications, authors, and institutions?
+
+RQ2- How do different countries or disciplines contribute to this research?
+
+RQ3- What thematic trends and emerging keywords shape this field?
+
+RQ4- What types of visualizations and visualization tools are commonly used?
+
+RQ5- How has data visualization in evaluation evolved over time?
+
+***Significance***
+
+This bibliometric study offers significant contributions to both evaluation theory and data visualization practice. First, it identifies critical gaps in the current literature. For instance, the under-representation of accessibility considerations in visualization design highlights a need for future research to focus on inclusive practices that ensure evaluation findings are accessible to diverse audiences. Similarly, the limited number of studies addressing the integration of emerging technologies like AI-driven visualization suggests an area ripe for exploration and innovation.
+
+Second, the analysis identifies best practices in the field. The prominence of stakeholder engagement as a central theme underscores the importance of interactive and participatory visualization approaches. The identification of key journals and influential authors provides a valuable guide for researchers and practitioners seeking to stay abreast of key developments. Furthermore, the study reveals effective collaboration networks, offering potential models for fostering interdisciplinary research and knowledge sharing.
+
+Finally, this study charts future directions for evaluators and data scientists. The increasing emphasis on mixed methods and visual analytics points towards the need for methodological advancements that combine quantitative and qualitative data in meaningful ways. The rise of AI-driven visualization opens new avenues for automating data processing, generating insights, and creating personalized visual displays. By synthesizing these trends and gaps, this bibliometric analysis provides a roadmap for advancing the field of data visualization in evaluation and increasing its impact on policy and practice.
+
+# **Methods**
+
+**Research Design**
+
+This study employs a bibliometric analysis approach to comprehensively map the intellectual landscape of data visualization in evaluation research. The methodology is complemented by a systematic review process, adhering to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, to ensure a structured, transparent, and replicable selection of relevant literature (Page al et., 2020).
+
+**Data Collection**
+
+A comprehensive search of the major academic databases (e.g., Scopus, Web of Science) was conducted using predefined search strings related to "data visualization," "evaluation," “evaluation communication,” and related terms. Metadata was downloaded from Scopus and WoS websites using search terms, and CSV files were downloaded.
+
+-   **Search Strategy:** Keywords and Boolean search strings:
+
+    -   *“data visualization” AND (evaluation OR program evaluation OR* "process evaluation"*)*
+
+    -   "data visualization" *AND* (“evaluation research" OR "evaluation report" OR "impact evaluation")
+
+    -   "data visualization", AND ("evaluation communication" OR "formative evaluation" OR "outcome evaluation"
+
+    -   “communicating” AND “evaluation” AND “results”
+
+-   **Inclusion and Exclusion Criteria:**
+
+    -   Time range: (2010–2024)
+
+    -   Document types: Articles, reviews, book chapters, conference papers
+
+    -   Languages: English
+
+    -   A paper should have at least one citation
+
+*Data Extraction:* Relevant metadata (e.g., authors, titles, abstracts, keywords, publication years, citations) were extracted from the selected publications and imported into a bibliometric database.
+
+*Data Screening and Selection:* The initial search results were screened based on predefined inclusion and exclusion criteria, following PRISMA guidelines. This involved assessing titles, abstracts, and full texts to ensure relevance to the study's focus. Full text screening was performed using Loon Lens. The screened data was further cleaned and used for the data analysis and data visualization. Total of 326 out of 1267 met the inclusion criteria
+
+Database Number Scopus 950 WoS 552 Dupblicate(88) Below 2010(147) Total 1267
+
+Selected papers 326
+
+**Data Analysis Procedure**
+
+*Bibliometric Analysis:* The study applies a range of bibliometric techniques, including Co-citation analysis: to identify clusters of highly cited publications and reveal the intellectual foundations of the field. Keyword co-occurrence mapping: exploring thematic trends and emerging research areas by analyzing the relationships between keywords used in literature. Collaboration network analysis examines patterns of collaboration among authors, institutions, and countries, and identifies key actors and knowledge hubs.
+
+*Data Visualization:* The results of the bibliometric analyses are visualized using network graphs, citation maps, and other visual representations to facilitate the interpretation and communication of the findings.
+
+*Software:* R software was employed for data analysis and visualization. Key packages included 'bibliometrix' for bibliometric analysis, 'tidyverse' for data manipulation and visualization, 'janitor' for data cleaning, and 'psych' for descriptive statistics. By combining systematic review principles with advanced bibliometric techniques, this research design provides a robust and transparent approach to exploring the evolving landscape of data visualization in evaluation research.
+
+# **Results**
+<iframe src="/assets/reports.pdf" width="100%" height="600px"></iframe>
+
+
+
+
+# **References**
+
+1.  Aria, M., & Cuccurullo, C. (2017). bibliometrix: An R-tool for comprehensive science mapping analysis. *Journal of Informetrics, 11*(4), 959–975. <https://doi.org/10.1016/j.joi.2017.08.007>
+
+2.  Evergreen, S. D. H. (2017). *Effective Data Visualization: The Right Chart for the Right Data.* SAGE Publications.
+
+3.  Few, S. (2012). *Show Me the Numbers: Designing Tables and Graphs to Enlighten.* Analytics Press
+
+4.  Patton, M. Q. (2018). *Utilization-Focused Evaluation.* SAGE Publications.
+
+5.  Page M.J, McKenzie J.E, Bossuyt P.M, Boutron I, Hoffmann T.C, Mulrow C.D (2020). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. <https://doi.org/10.1136/bmj.n71>
+
+6.  Kirk, A. (2019). *Data Visualisation: A Handbook for Data Driven Design.* SAGE Publications.
+
+7.  Douville, S., Grandjean Targos, P. T., Jones, N. D., Knight, C., & Azzam, T. (2025). Data visualization expert lessons learned: Implications for program evaluators. *American Journal of Evaluation*, 1–16. <https://doi.org/10.1177/10982140241290744>
+
+8.  van Eck, N.J., Waltman, L. (2014). Visualizing Bibliometric Networks. In: Ding, Y., Rousseau, R., Wolfram, D. (eds) Measuring Scholarly Impact. Springer, Cham. <https://doi.org/10.1007/978-3-319-10377-8_13>

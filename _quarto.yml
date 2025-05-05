@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Richard Dickson Amoako"
+  navbar:
+    right:
+      - text: "Home"
+        file: home.qmd
+      - text: "About"
+        file: about.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Publications"
+        file: publication.qmd
+      - text: "Teaching"
+        file: teaching.qmd
+       
+social:
+      - icon: github
+        href: https://github.com/amoakor
+      - icon: LinkedIn  # <-- Unique key
+        href: https://tiny.utk.edu/ramoako
+    
+format:
+  html:
+    theme: solar
+    css: styles.css
+
+footer: © 2025 Richard Dickson Amoako | Powered by Quarto
+
+
+editor: visual
+

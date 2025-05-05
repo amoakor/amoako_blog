@@ -1,0 +1,43 @@
+---
+title: "About Me!"
+image: head.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://tiny.utk.edu/ramoako
+    - icon: github
+      text: Github
+      # href: https://github.com/amoakor
+      # icon: ResearchGate
+      # href: https://www.researchgate.net/profile/Richard-Amoako?ev=hdr_xprf
+      # Icon: GoogleScholar
+      #href: https://scholar.google.com/citations?user=gFBK-9sAAAAJ&hl=en
+---
+
+![](about_files/about.jpg){width="440"}
+
+I am excited to share my research, insights, and experiences in the fields of evaluation, education, health, and data science. My goal is to create a platform for discussion and collaboration among researchers, educators, and practitioners who are passionate about improving educational and health outcomes through data-driven approaches. I am Richard Dickson Amoako, a PhD student in the Department of Educational Leadership and Policy Studies at the University of Tennessee, Knoxville. I hold a Master of Public Health (MPH) and a Master of Science (MS) in Development Evaluation and Management. My research interests include educational evaluation, data visualization in evaluation, CRE frameworks and the application of artificial intelligence in education. I am passionate about using data to inform policy decisions and improve educational and health outcomes for all students. I have a strong background in quantitative research methods and statistical analysis, and I am skilled in using various data analysis tools and programming languages, including R, Python, and SQL. My work has focused on the integration AI into teaching and learning, evaluating educational programs and policies, and creating culturally responsible evaluation frameworks for rural Appalachian school mental health programs. I have experience working with large datasets and conducting complex statistical analyses to identify trends and patterns in educational and health outcomes. I am also interested in the ethical implications of data use in education and the importance of equity and inclusion in educational research. I believe that data should be used to empower marginalized communities and promote social justice in education. I am excited to share my research and insights on this blog, and I hope to engage with others who are passionate about education, health and data science. Please feel free to reach out to me through the links below or connect with me on social media. I look forward to hearing from you!
+
+## My Research Interests
+
+Evaluating educational programs and policies
+
+Data science & data visualization
+
+Artificial intelligence in education
+
+Integrating AI into teaching and learning
+
+Culturally responsible evaluation frameworks
+
+Ethical implications of data use in education
+
+Data-driven decision-making in education
+
+Improving educational and health outcomes for all students
+
+Geographic information systems (GIS) in education & Health
+
+**MY CV**

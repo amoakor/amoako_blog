@@ -1,0 +1,7 @@
+---
+title: "AERA Annual Meeting 2025"
+author: "Richard Amoako"
+date: "2025-04-25"
+categories: [news]
+image: "aera_2025.jpg"
+---
