@@ -1,0 +1,7 @@
+- source: project
+  netlify:
+    - id: 9044644f-90bb-47a5-aa61-8645f49f8126
+      url: 'https://chic-muffin-35dbc2.netlify.app'
+  quarto-pub:
+    - id: d5c65ed2-0bf3-4a8d-9473-18a915e6faa8
+      url: 'https://amoakor.quarto.pub/richard-dickson-amoako'

@@ -1,22 +1,20 @@
 ---
 title: "My Porjects"
-image: network.jpg
 about:
   template: jolla
 ---
 
-# **Current Projects**
+# **Current Project**
 
 ## ***Topic: Data Visualization and Communication in Evaluation: A Bibliometric Analysis***
 
-![](images/community%20network.jpg){width="436"}
 
-[Download PDF](assets/reports.pdf){target="_blank"}
+![](images/community%20network.jpg){width="436"}
 
 
 ## **Project Overview**
 
-*Introduction*
+## *Introduction*
 
 In an era defined by unprecedented data volume, the ability to effectively visualize and communicate complex information has become critical across disciplines (Kirk, 2019). Within the field of evaluation, data visualization offers powerful tools for enhancing understanding, facilitating stakeholder engagement, and ultimately, informing better decisions (Few, 2012; Evergreen, 2017). As evaluation practice evolves to address increasingly complex social programs and policies, the strategic use of visual displays can transform raw data into actionable insights (Patton, 2018).
 
@@ -58,12 +56,6 @@ A comprehensive search of the major academic databases (e.g., Scopus, Web of Sci
 
     -   *“data visualization” AND (evaluation OR program evaluation OR* "process evaluation"*)*
 
-    -   "data visualization" *AND* (“evaluation research" OR "evaluation report" OR "impact evaluation")
-
-    -   "data visualization", AND ("evaluation communication" OR "formative evaluation" OR "outcome evaluation"
-
-    -   “communicating” AND “evaluation” AND “results”
-
 -   **Inclusion and Exclusion Criteria:**
 
     -   Time range: (2010–2024)
@@ -76,11 +68,7 @@ A comprehensive search of the major academic databases (e.g., Scopus, Web of Sci
 
 *Data Extraction:* Relevant metadata (e.g., authors, titles, abstracts, keywords, publication years, citations) were extracted from the selected publications and imported into a bibliometric database.
 
-*Data Screening and Selection:* The initial search results were screened based on predefined inclusion and exclusion criteria, following PRISMA guidelines. This involved assessing titles, abstracts, and full texts to ensure relevance to the study's focus. Full text screening was performed using Loon Lens. The screened data was further cleaned and used for the data analysis and data visualization. Total of 326 out of 1267 met the inclusion criteria
-
-Database Number Scopus 950 WoS 552 Dupblicate(88) Below 2010(147) Total 1267
-
-Selected papers 326
+*Data Screening and Selection:* The initial search results were screened based on predefined inclusion and exclusion criteria, following PRISMA guidelines. This involved assessing titles, abstracts, and full texts to ensure relevance to the study's focus. Full text screening was performed using Loon Lens. The screened data was further cleaned and used for the data analysis and data visualization. Total of 326 out of 1267 met the inclusion criteria. Database: Scopus and WoS.
 
 **Data Analysis Procedure**
 
@@ -91,10 +79,10 @@ Selected papers 326
 *Software:* R software was employed for data analysis and visualization. Key packages included 'bibliometrix' for bibliometric analysis, 'tidyverse' for data manipulation and visualization, 'janitor' for data cleaning, and 'psych' for descriptive statistics. By combining systematic review principles with advanced bibliometric techniques, this research design provides a robust and transparent approach to exploring the evolving landscape of data visualization in evaluation research.
 
 # **Results**
-<iframe src="/assets/reports.pdf" width="100%" height="600px"></iframe>
 
+<iframe src="/assets/report_rd-amoako.pdf" width="100%" height="600px">
 
-
+</iframe>
 
 # **References**
 

@@ -1,1 +1,273 @@
 /* css styles */
+/* Justify all regular text content */
+body {
+  text-align: left;
+}
+
+/* Specifically target paragraphs to be justified */
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Ensure headings remain left-aligned */
+h1, h2, h3, h4, h5, h6 {
+  text-align: left !important;
+}
+
+/* Base typography */
+body {
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+  line-height: 1.2;
+}
+
+h1 { font-size: 2.2rem; border-bottom: 2px solid #f0f0f0; padding-bottom: 0.3em; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.3rem; }
+
+/* Paragraphs and text */
+p {
+  margin-bottom: 1.2em;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
+
+/* Links */
+a {
+  color: #3498db;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+
+/* Main content container */
+.quarto-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Sidebar (if you have one) */
+.sidebar {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+/* Navigation */
+.navbar {
+  background-color: #3498db;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  padding: 1rem 0;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #2c3e50 !important;
+}
+
+
+/* Post cards in listings */
+.post-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  padding: 25px;
+  margin-bottom: 30px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.post-title {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.post-meta {
+  color: #7f8c8d;
+  font-size: 0.9em;
+  margin-bottom: 15px;
+}
+
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  box-shadow: 0 0 0 1px #ddd;
+}
+
+th, td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #3498db;
+  background-color: #f8f9fa;
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  color: #555;
+  font-style: italic;
+}
+
+blockquote p {
+  margin-bottom: 0;
+}
+
+
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  h1 { font-size: 1.8rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.3rem; }
+  
+  .quarto-container {
+    padding: 0 15px;
+  }
+}
+
+
+/* Callout boxes */
+.callout {
+  padding: 1em;
+  margin: 1em 0;
+  border-left: 4px solid;
+  border-radius: 4px;
+  background-color: #f8f9fa;
+}
+
+.callout-note {
+  border-color: #3498db;
+  background-color: #e8f4fd;
+}
+
+.callout-warning {
+  border-color: #f39c12;
+  background-color: #fff4e6;
+}
+
+.callout-important {
+  border-color: #e74c3c;
+  background-color: #fdedec;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin: 1.5em 0;
+}
+
+.figure {
+  text-align: center;
+  margin: 2em 0;
+}
+
+.caption {
+  font-size: 0.9em;
+  color: #7f8c8d;
+  margin-top: 0.5em;
+}
+
+
+/* Footnotes styling */
+.footnotes {
+  margin-top: 3em;
+  padding-top: 1em;
+  border-top: 1px solid #eee;
+  font-size: 0.9em;
+}
+
+.footnotes ol {
+  padding-left: 1.5em;
+}
+
+.footnotes li {
+  margin-bottom: 0.5em;
+}
+
+a.footnote-ref, .footnote-return {
+  text-decoration: none;
+  color: #3498db;
+  font-weight: bold;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+/* Smooth scrolling for anchor links */
+a[href^="#"] {
+  cursor: pointer;
+}
+a[href^="#"]:hover {
+  text-decoration: underline;
+}
+a[href^="#"]:active {
+  color: #2980b9;
+}
+
+/* Custom footer styling */
+.custom-footer {
+  text-align: center;
+  margin-top: 3rem;
+  padding: 1.5rem 0;
+  border-top: 1px solid #eee;
+  color: #6c757d;
+  font-size: 0.9rem;
+}
+
+.custom-footer a {
+  color: #6c757d;
+  text-decoration: none;
+}
+
+.custom-footer a:hover {
+  color: #495057;
+  text-decoration: underline;
+}

@@ -1,34 +1,46 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Richard Dickson Amoako"
+  site-url: https://www.rd-amoako.com
+  description: "This is RD Amoako's personal Blog."
   navbar:
-    right:
+    left:
       - text: "Home"
-        file: home.qmd
+        href: index.qmd
       - text: "About"
-        file: about.qmd
+        href: about.qmd
       - text: "Projects"
-        file: projects.qmd
+        href: projects.qmd
       - text: "Publications"
-        file: publication.qmd
-      - text: "Teaching"
-        file: teaching.qmd
-       
-social:
+        href: publication.qmd
+    
+    right:
       - icon: github
         href: https://github.com/amoakor
-      - icon: LinkedIn  # <-- Unique key
+      - icon: linkedin
         href: https://tiny.utk.edu/ramoako
-    
+  cookie-consent: true
+
 format:
   html:
-    theme: solar
+    theme: flatly  # Changed from theme.scss, cosmo to built-in theme
     css: styles.css
-
-footer: © 2025 Richard Dickson Amoako | Powered by Quarto
-
+     
+# filters:
+#   - code-filename
 
 editor: visual
-
+execute:
+  echo: false
+  error: true
+  warning: true
+  include: true
+  cache: true
+  freeze: true
+  message: false
+  output: true
+  run-chunk-labels: false
+  

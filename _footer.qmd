@@ -1,0 +1,7 @@
+---
+title: footer
+---
+
+::: custom-footer
+<p>© RD Amoako · Powered by <a href="https://quarto.org/" target="_blank">Quarto</a></p>
+:::
