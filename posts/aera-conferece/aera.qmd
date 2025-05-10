@@ -1,0 +1,21 @@
+---
+title: "AERA Annual Meeting 2025, Denver"
+author: "Richard Amoako"
+date: "2025-04-27"
+categories: [Conference]
+image: "aera_2025.jpg"
+---
+
+### **Paper Title:** **"Development and Initial Validation of the Comprehensive Artificial Intelligence Integration Readiness Scale (CAIIRS) for Higher Education Institutions"**
+
+![](present2.jpg){width="449"}
+
+## **Abstract**
+
+Artificial Intelligence (AI) has emerged as a transformative force in higher education, enhancing learning experiences and optimizing administrative processes. However, integrating AI into teaching and learning practices remains underexplored, particularly concerning educators' readiness and perceptions. This study aimed to develop and validate the Comprehensive AI Integration Readiness Survey (CAIIRS) to assess higher education educators' readiness and willingness to integrate AI into their teaching, learning, and assessment practices. A nationwide survey was conducted among educators at public and private universities across the United States. The survey instrument, CAIIRS, was designed based on an extensive literature review and expert input. Data was collected online, and exploratory factor analysis (EFA) was used to determine the underlying factor structure. The EFA revealed three main factors: Integration and Effectiveness of AI in Teaching, Institutional Support for AI Integration, and Anxiety about AI Technology Use. The study found general recognition of AI's benefits but highlighted significant anxiety among faculty and varying levels of institutional support. The findings underscore the need for comprehensive professional development and strong institutional support to facilitate effective AI integration. The CAIIRS scale provides a valuable tool for assessing faculty readiness and guiding targeted interventions, highlighting the complexities of adopting AI in higher education.
+
+**Keywords**: Generative Artificial Intelligence, Educators, Higher Education, Scale Development, Exploratory Factor Analysis, AI Integration
+
+![](present1.jpg){width="475"}
+
+![With My West African Colleagues at AERA 2025, Denver](present3.jpg){width="475"}

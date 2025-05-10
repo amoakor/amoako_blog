@@ -1,0 +1,21 @@
+---
+title: "Eastern Evaluation Research Association (EERS, 2025 Conference)"
+author: "Richard Amoako"
+date: "2025-05-01"
+categories: [Conference]
+image: "zoom11.JPG"
+---
+
+### **Paper Title: Towards a Culturally Responsive Evaluation Framework for Rural Appalachian School Mental Health Programs**
+
+![](eers_ccre.jpeg){width="624"}
+
+## Abstract:
+
+Mental health programs aim to prevent or mitigate mental illness and promote psychological well-being. Evaluating the effectiveness of these programs is crucial, yet it presents unique challenges. This paper proposes a comprehensive culturally responsive evaluation (CCRE) framework specifically tailored to assessing school-based mental health programs in rural Appalachian communities. The Appalachian region of the United States faces significant challenges in addressing elevated rates of youth mental health issues, driven by socioeconomic disadvantages, limited access to care, and distinct cultural factors. While school mental health initiatives have emerged as a promising approach, rigorous evaluations are needed to examine their implementation, outcomes, and long-term community impacts through an Appalachian cultural lens. The proposed CCRE framework integrates core principles of cultural responsiveness with a nuanced understanding of Appalachian traditions, values, and knowledge systems. It provides structured yet flexible guidance across five stages: 1) Comprehensively analyzing the multi-layered community and sociopolitical contexts; 2) Collaboratively designing the evaluation with diverse local stakeholders to surface culturally-relevant priorities and indicators; 3) Implementing culturally-relevant, participatory inquiry methods and capacity building; 4) Engaging the community in collectively analyzing and contextualizing findings through an Appalachian worldview; and 5) Prioritizing local dissemination formats and translating insights into sustained community actions. By centralizing Appalachian voices, ways of knowing, and self-determination throughout the process, this framework aims to enhance evaluation validity, community buy-in, and long-term impacts on addressing mental health disparities. It presents a paradigm shift towards more ethical, equitable evaluations that authentically resonate within the distinct rural Appalachian cultural context.
+
+**Keywords:** Rural Appalachia, School Mental Health programs, Culturally Responsive Evaluation, Program Evaluation, Community engagement, Local knowledge systems
+
+![](zoom13.jpg)
+
+![](zoom12.jpg)
