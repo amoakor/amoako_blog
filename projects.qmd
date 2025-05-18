@@ -1,5 +1,5 @@
 ---
-title: "My Porjects"
+title: "My Projects"
 about:
   template: jolla
 ---
