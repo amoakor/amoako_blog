@@ -21,10 +21,11 @@ about:
 
 ### **Blog Posts**
 
--   Finding Your People: The Importance of Mentorship and Networking Early On. In MAD with Methods and Measures (2024). ESM program. University of Tennessee, Knoxville. https://cehhs.utk.edu/elps/finding-your-people-the-importance-of-mentorship-and-networking-early-on/
--   Evaluation in the era of Emerging Technologies. MAD with Methods and Measures (2023), the ESM program. University of Tennessee, Knoxville. https://elps.utk.edu/2023/11/15/evaluation-in-the-age-of-emerging-technologies/
+-   My Journey in Writing a Bibliometric Analysis Paper (June 2025). In the MADBlog, ESM program, University of Tennessee, Knoxville. <https://cehhs.utk.edu/elps/my-journey-in-writing-a-bibliometric-analysis-paper/>
+-   Finding Your People: The Importance of Mentorship and Networking Early On (2024). In the MADBlog, ESM program, University of Tennessee, Knoxville. <https://cehhs.utk.edu/elps/finding-your-people-the-importance-of-mentorship-and-networking-early-on/>
+-   Evaluation in the era of Emerging Technologies. MAD with Methods and Measures (2023). In the MADBlog, ESM program. University of Tennessee, Knoxville. <https://elps.utk.edu/2023/11/15/evaluation-in-the-age-of-emerging-technologies/>
 
-### **Manuscripts Submitted and Under Review**
+### **Manuscripts Under Review**
 
 -   **Amoako, R. D.** & Morrow, J. A. Development and Initial Validation of the Comprehensive AI Integration Readiness Survey. Submitted to the International Journal of Teaching and Learning in Higher Education (IJTLHE).
 -   **Amoako, R. D.** Towards a Culturally Responsive Evaluation Framework for Rural Appalachian School Mental Health Programs. Submitted to the Journal of Appalachian Studies.

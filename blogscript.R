@@ -1,6 +1,13 @@
 <iframe src="path/to/publications_map.html" width="100%" height="500px"></iframe>
   
+  
+  <iframe src="/assets/doc.pdf" width="100%" height="600px">
+    
+    </iframe>
+  
+  
   ![](images/community%20network.jpg){width="436"}
+{{< embed url="assets/publications_map.html" >}}
 
 page-footer: "@RD Amoako  Powered by Quarto"analytics:
   google:

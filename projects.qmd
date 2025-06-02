@@ -4,100 +4,59 @@ about:
   template: jolla
 ---
 
-# **Current Project**
+# **Current Projects**
 
-## ***Topic: Data Visualization and Communication in Evaluation: A Bibliometric Analysis***
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Project 1: Comprehensive Artificial Intelligence Integration Readiness Survey (CAIIRS)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ![](images/screeplot.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ### Project Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| This project addresses the integration of artificial intelligence (AI) in higher education, focusing on the readiness and perceptions of faculty members regarding AI adoption in teaching, learning, and assessment. Recognizing that while AI is transforming higher education by enhancing learning experiences and streamlining administrative tasks, the practical integration of AI into instructional practices remains insufficiently explored, especially from the perspective of educators.                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| The primary objective was to develop and validate the Comprehensive AI Integration Readiness Survey (CAIIRS), a tool designed to measure faculty readiness for AI integration. The CAIIRS was constructed based on a thorough literature review and expert feedback, ensuring its relevance and comprehensiveness. Data were collected through a nationwide online survey targeting educators from both public and private universities and colleges across the United States.                                                                                                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Keywords:** Generative Artificial Intelligence, Educators, Higher Education, Scale Development, AI Integration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [More Details](#caiirs){.btn}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ```                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ```                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
++:====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================+
+| ## **Project 2: Data Visualization and Communication in Evaluation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/community%20network.jpg){width="436"}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ### ***Project Summary***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| In an era defined by unprecedented data volume, the ability to effectively visualize and communicate complex information has become critical across disciplines (Kirk, 2019). Within the field of evaluation, data visualization offers powerful tools for enhancing understanding, facilitating stakeholder engagement, and ultimately, informing better decisions (Few, 2012; Evergreen, 2017). As evaluation practice evolves to address increasingly complex social programs and policies, the strategic use of visual displays can transform raw data into actionable insights (Patton, 2018). |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| This study employs bibliometric methods using the PRISMA framework to address critical questions about data visualization evolution, key influences, thematic foci, and global distribution of research on data visualization within the evaluation field. Through a comprehensive analysis of scholarly publications, this research aims to provide a valuable resource for researchers, practitioners, and policymakers seeking to understand and leverage the power of data visualization to improve evaluation practice.                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [More Details](#biblio_evalviz-details){.btn}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+::: card
+## **Project 3: Comprehensive Cultural Responsiveness Evaluation (CCRE) Framework**
 
-![](images/community%20network.jpg){width="436"}
+![](images/ccre.png){width="300"}
 
+### *Project Summary*
 
-## **Project Overview**
+The Comprehensive Cultural Responsiveness Evaluation (CCRE) Framework is a structured approach designed to assess and enhance cultural responsiveness evaluation of mental health programs within the Appalachian region. This framework provides a systematic method for evaluating key dimensions of cultural responsiveness, including community perspective, collaborative design, socio-political dynamics, and community engagement. By identifying strengths and areas for improvement, CCRE serves as a diagnostic tool to guide educational and mental health institutions in their efforts to create inclusive and equitable learning environments that respect and celebrate diverse cultural perspectives.
 
-## *Introduction*
+[More Details](#ccre-details){.btn}
+:::
 
-In an era defined by unprecedented data volume, the ability to effectively visualize and communicate complex information has become critical across disciplines (Kirk, 2019). Within the field of evaluation, data visualization offers powerful tools for enhancing understanding, facilitating stakeholder engagement, and ultimately, informing better decisions (Few, 2012; Evergreen, 2017). As evaluation practice evolves to address increasingly complex social programs and policies, the strategic use of visual displays can transform raw data into actionable insights (Patton, 2018).
+------------------------------------------------------------------------
 
-Despite the growing recognition of data visualization's potential, the field lacks a comprehensive synthesis of its development, key contributors, and emerging trends. Traditional literature reviews often fall short of capturing the breadth and interdisciplinary nature of this topic. Bibliometric analysis, a quantitative approach to mapping the structure of scientific knowledge, offers a rigorous and systematic alternative (Aria & Cuccurullo, 2017; van Eck & Waltman, 2014). By analyzing publication patterns, citation networks, and keyword co-occurrences, bibliometrics can reveal the intellectual landscape of data visualization in evaluation.
+::: card
+## **Project 4: Review of Instruments and Frameworks to Measuring Faculty AI Integration Readiness**
 
-This study employs bibliometric methods using the PRISMA framework to address critical questions about data visualization evolution, key influences, thematic foci, and global distribution of research on data visualization within the evaluation field. Through a comprehensive analysis of scholarly publications, this research aims to provide a valuable resource for researchers, practitioners, and policymakers seeking to understand and leverage the power of data visualization to improve evaluation practice.
+### *Project Summary*
 
-***Research Questions***
+The systematic review of instruments and frameworks for measuring faculty AI adoption readiness is a comprehensive analysis aimed at identifying and evaluating existing tools that assess the preparedness of educators for integrating artificial intelligence (AI) technologies in their teaching practices. This review seeks to synthesize current knowledge, highlight gaps in the literature, and provide recommendations for future research and development of more effective assessment instruments. By systematically reviewing the available literature, this project aims to contribute to a deeper understanding of faculty readiness for AI adoption and inform strategies for enhancing AI integration in educational settings.
 
-RQ1- What are the most influential publications, authors, and institutions?
-
-RQ2- How do different countries or disciplines contribute to this research?
-
-RQ3- What thematic trends and emerging keywords shape this field?
-
-RQ4- What types of visualizations and visualization tools are commonly used?
-
-RQ5- How has data visualization in evaluation evolved over time?
-
-***Significance***
-
-This bibliometric study offers significant contributions to both evaluation theory and data visualization practice. First, it identifies critical gaps in the current literature. For instance, the under-representation of accessibility considerations in visualization design highlights a need for future research to focus on inclusive practices that ensure evaluation findings are accessible to diverse audiences. Similarly, the limited number of studies addressing the integration of emerging technologies like AI-driven visualization suggests an area ripe for exploration and innovation.
-
-Second, the analysis identifies best practices in the field. The prominence of stakeholder engagement as a central theme underscores the importance of interactive and participatory visualization approaches. The identification of key journals and influential authors provides a valuable guide for researchers and practitioners seeking to stay abreast of key developments. Furthermore, the study reveals effective collaboration networks, offering potential models for fostering interdisciplinary research and knowledge sharing.
-
-Finally, this study charts future directions for evaluators and data scientists. The increasing emphasis on mixed methods and visual analytics points towards the need for methodological advancements that combine quantitative and qualitative data in meaningful ways. The rise of AI-driven visualization opens new avenues for automating data processing, generating insights, and creating personalized visual displays. By synthesizing these trends and gaps, this bibliometric analysis provides a roadmap for advancing the field of data visualization in evaluation and increasing its impact on policy and practice.
-
-# **Methods**
-
-**Research Design**
-
-This study employs a bibliometric analysis approach to comprehensively map the intellectual landscape of data visualization in evaluation research. The methodology is complemented by a systematic review process, adhering to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, to ensure a structured, transparent, and replicable selection of relevant literature (Page al et., 2020).
-
-**Data Collection**
-
-A comprehensive search of the major academic databases (e.g., Scopus, Web of Science) was conducted using predefined search strings related to "data visualization," "evaluation," “evaluation communication,” and related terms. Metadata was downloaded from Scopus and WoS websites using search terms, and CSV files were downloaded.
-
--   **Search Strategy:** Keywords and Boolean search strings:
-
-    -   *“data visualization” AND (evaluation OR program evaluation OR* "process evaluation"*)*
-
--   **Inclusion and Exclusion Criteria:**
-
-    -   Time range: (2010–2024)
-
-    -   Document types: Articles, reviews, book chapters, conference papers
-
-    -   Languages: English
-
-    -   A paper should have at least one citation
-
-*Data Extraction:* Relevant metadata (e.g., authors, titles, abstracts, keywords, publication years, citations) were extracted from the selected publications and imported into a bibliometric database.
-
-*Data Screening and Selection:* The initial search results were screened based on predefined inclusion and exclusion criteria, following PRISMA guidelines. This involved assessing titles, abstracts, and full texts to ensure relevance to the study's focus. Full text screening was performed using Loon Lens. The screened data was further cleaned and used for the data analysis and data visualization. Total of 326 out of 1267 met the inclusion criteria. Database: Scopus and WoS.
-
-**Data Analysis Procedure**
-
-*Bibliometric Analysis:* The study applies a range of bibliometric techniques, including Co-citation analysis: to identify clusters of highly cited publications and reveal the intellectual foundations of the field. Keyword co-occurrence mapping: exploring thematic trends and emerging research areas by analyzing the relationships between keywords used in literature. Collaboration network analysis examines patterns of collaboration among authors, institutions, and countries, and identifies key actors and knowledge hubs.
-
-*Data Visualization:* The results of the bibliometric analyses are visualized using network graphs, citation maps, and other visual representations to facilitate the interpretation and communication of the findings.
-
-*Software:* R software was employed for data analysis and visualization. Key packages included 'bibliometrix' for bibliometric analysis, 'tidyverse' for data manipulation and visualization, 'janitor' for data cleaning, and 'psych' for descriptive statistics. By combining systematic review principles with advanced bibliometric techniques, this research design provides a robust and transparent approach to exploring the evolving landscape of data visualization in evaluation research.
-
-# **Results**
-
-<iframe src="/assets/report_rd-amoako.pdf" width="100%" height="600px">
-
-</iframe>
-
-# **References**
-
-1.  Aria, M., & Cuccurullo, C. (2017). bibliometrix: An R-tool for comprehensive science mapping analysis. *Journal of Informetrics, 11*(4), 959–975. <https://doi.org/10.1016/j.joi.2017.08.007>
-
-2.  Evergreen, S. D. H. (2017). *Effective Data Visualization: The Right Chart for the Right Data.* SAGE Publications.
-
-3.  Few, S. (2012). *Show Me the Numbers: Designing Tables and Graphs to Enlighten.* Analytics Press
-
-4.  Patton, M. Q. (2018). *Utilization-Focused Evaluation.* SAGE Publications.
-
-5.  Page M.J, McKenzie J.E, Bossuyt P.M, Boutron I, Hoffmann T.C, Mulrow C.D (2020). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. <https://doi.org/10.1136/bmj.n71>
-
-6.  Kirk, A. (2019). *Data Visualisation: A Handbook for Data Driven Design.* SAGE Publications.
-
-7.  Douville, S., Grandjean Targos, P. T., Jones, N. D., Knight, C., & Azzam, T. (2025). Data visualization expert lessons learned: Implications for program evaluators. *American Journal of Evaluation*, 1–16. <https://doi.org/10.1177/10982140241290744>
-
-8.  van Eck, N.J., Waltman, L. (2014). Visualizing Bibliometric Networks. In: Ding, Y., Rousseau, R., Wolfram, D. (eds) Measuring Scholarly Impact. Springer, Cham. <https://doi.org/10.1007/978-3-319-10377-8_13>
+[More Details](#sysRev_ai-details){.btn}
+:::

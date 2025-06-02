@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f3c2ea88cadbcfb37ba28ffa2c97cfc1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -112,10 +112,6 @@ cookieconsent.run({
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
@@ -125,6 +121,10 @@ cookieconsent.run({
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/amoakor"> <i class="bi bi-github" role="img">
 </i> 
@@ -180,12 +180,13 @@ cookieconsent.run({
 <section id="blog-posts" class="level3">
 <h3 data-anchor-id="blog-posts"><strong>Blog Posts</strong></h3>
 <ul>
-<li>Finding Your People: The Importance of Mentorship and Networking Early On. In MAD with Methods and Measures (2024). ESM program. University of Tennessee, Knoxville. https://cehhs.utk.edu/elps/finding-your-people-the-importance-of-mentorship-and-networking-early-on/</li>
-<li>Evaluation in the era of Emerging Technologies. MAD with Methods and Measures (2023), the ESM program. University of Tennessee, Knoxville. https://elps.utk.edu/2023/11/15/evaluation-in-the-age-of-emerging-technologies/</li>
+<li>My Journey in Writing a Bibliometric Analysis Paper (June 2025). In the MADBlog, ESM program, University of Tennessee, Knoxville. <a href="https://cehhs.utk.edu/elps/my-journey-in-writing-a-bibliometric-analysis-paper/" class="uri">https://cehhs.utk.edu/elps/my-journey-in-writing-a-bibliometric-analysis-paper/</a></li>
+<li>Finding Your People: The Importance of Mentorship and Networking Early On (2024). In the MADBlog, ESM program, University of Tennessee, Knoxville. <a href="https://cehhs.utk.edu/elps/finding-your-people-the-importance-of-mentorship-and-networking-early-on/" class="uri">https://cehhs.utk.edu/elps/finding-your-people-the-importance-of-mentorship-and-networking-early-on/</a></li>
+<li>Evaluation in the era of Emerging Technologies. MAD with Methods and Measures (2023). In the MADBlog, ESM program. University of Tennessee, Knoxville. <a href="https://elps.utk.edu/2023/11/15/evaluation-in-the-age-of-emerging-technologies/" class="uri">https://elps.utk.edu/2023/11/15/evaluation-in-the-age-of-emerging-technologies/</a></li>
 </ul>
 </section>
-<section id="manuscripts-submitted-and-under-review" class="level3">
-<h3 data-anchor-id="manuscripts-submitted-and-under-review"><strong>Manuscripts Submitted and Under Review</strong></h3>
+<section id="manuscripts-under-review" class="level3">
+<h3 data-anchor-id="manuscripts-under-review"><strong>Manuscripts Under Review</strong></h3>
 <ul>
 <li><strong>Amoako, R. D.</strong> &amp; Morrow, J. A. Development and Initial Validation of the Comprehensive AI Integration Readiness Survey. Submitted to the International Journal of Teaching and Learning in Higher Education (IJTLHE).</li>
 <li><strong>Amoako, R. D.</strong> Towards a Culturally Responsive Evaluation Framework for Rural Appalachian School Mental Health Programs. Submitted to the Journal of Appalachian Studies.</li>
@@ -273,8 +274,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -385,7 +384,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

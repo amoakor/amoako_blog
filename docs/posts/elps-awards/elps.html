@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-f3c2ea88cadbcfb37ba28ffa2c97cfc1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -115,10 +115,6 @@ cookieconsent.run({
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
-<span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
@@ -128,6 +124,10 @@ cookieconsent.run({
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/amoakor"> <i class="bi bi-github" role="img">
 </i> 
@@ -188,14 +188,15 @@ cookieconsent.run({
 
 
 
-<p><strong>Honored with Two ELPS Awards!</strong></p>
+<section id="honored-with-two-elps-awards" class="level2">
+<h2 class="anchored" data-anchor-id="honored-with-two-elps-awards"><strong>Honored with Two ELPS Awards!</strong></h2>
 <p>I’m deeply honored to share that I received two awards at the 2025&nbsp;Educational Leadership and Policy Studies (ELPS) Honors and Awards Ceremony:</p>
 <ol type="1">
 <li><p>Graduate Student Research Excellence Award</p></li>
-<li><p>Graduate Student of the Year Award&nbsp;(for the Evaluation, Statistics and Methodology Program)</p></li>
+<li><p>Graduate Student of the Year Award&nbsp;(Evaluation, Statistics and Methodology Program)</p></li>
 </ol>
 <p>This recognition means so much to me, not just as milestones in my academic journey, but as affirmations of the collaborative effort behind my work.&nbsp;I’m grateful to my faculty advisors, colleagues, and the ELPS community for their unwavering support.</p>
-<p>A special thank you to&nbsp;<strong>Dr.&nbsp;Jennifer Ann Morrow and Dr.&nbsp;Louis Rocconi</strong>, whose guidance has been invaluable, and to my peers in the ESM program for fostering a space where rigorous scholarship and meaningful dialogue thrive.</p>
+<p>A special thank you to&nbsp;Dr.&nbsp;Jennifer Ann Morrow and Dr.&nbsp;Louis Rocconi, whose guidance has been invaluable, and to my peers in the ESM program for fostering a space where rigorous scholarship and meaningful dialogue thrive.</p>
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
 <p><img src="award.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
@@ -203,6 +204,7 @@ cookieconsent.run({
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -287,8 +289,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -399,7 +399,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
