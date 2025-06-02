@@ -1,0 +1,11 @@
+---
+title: "CAIIRS"
+about:
+  template: jolla
+---
+
+## \*\*\*Project Title: Comprehensive Artificial Intelligence Integration Readiness Survey (CAIIRS)
+
+![](images/screeplot.jpg){width="436"}
+
+## **Project Overview**

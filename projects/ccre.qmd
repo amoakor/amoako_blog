@@ -1,0 +1,12 @@
+---
+title: "CCRE"
+about:
+  template: jolla
+---
+
+
+## \*\*\*Project Title: Comprehensive Cultural Responsiveness Evaluation (CCRE) Framework
+
+![](images/ccre.png){width="300"}
+
+## **Project Overview**

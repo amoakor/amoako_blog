@@ -1,0 +1,15 @@
+---
+title: "AI Readiness-Instruments and Frameworks"
+about:
+  template: jolla
+---
+
+# **Current Project**
+
+## \*\*\*Project Title: Systematic Review of Instruments and Frameworks to Measuring Faculty AI Adoption Readiness
+
+![](images/community%20network.jpg){width="436"}
+
+## **Project Overview**
+
+
