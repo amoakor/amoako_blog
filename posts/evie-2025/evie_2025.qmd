@@ -1,0 +1,21 @@
+---
+title: "EViE 6th Conference"
+author: "Richard D. Amoako"
+date: "2025-05-22"
+categories: [Conference]
+image: "evie-cover.jpg"
+---
+
+## **Presented at the 6th EViE Conference**
+
+I had the privilege of presenting my research at the 6th **EMERGENT VOICES IN EVALUATIION (EViE) Conference** Virtually Hosted by the UNC Greensboro School of Education's Educational Research Methodology Program. My presentation, titled **"The Mediating Role of Anxiety in Faculty's Integration of AI into Teaching Practices: Implications for Evaluation and Institutional Support,"** explored the factors influencing higher education faculty's readiness to integrate artificial intelligence (AI) into teaching and learning, focusing on the mediating role of anxiety about AI use. The study examines how institutional support, faculty characteristics, and anxiety contribute to AI integration, offering insights into how evaluators can assess and support AI adoption in educational settings.
+
+This conference provided a platform for meaningful discussions on the intersection of evaluation, education, and technology. I am grateful to the organizers and participants for their insightful contributions and support.
+
+![](paper.jpg)
+
+![]()
+
+![](session.jpg)
+
+![](evie-cover.jpg)
