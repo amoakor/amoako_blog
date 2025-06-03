@@ -1,6 +1,6 @@
 ---
 title: "ELPS Awards-UTK"
-author: "Richard D. Amoako"
+author: "Richard Amoako"
 date: "2025-05-1"
 categories: [Awards]
 image: "award.jpg"

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Richard Dickson Amoako"
+  title: "RD Amoako"
   site-url: https://www.rd-amoako.com
   description: "This is RD Amoako's personal Blog."
   navbar:

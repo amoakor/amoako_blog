@@ -1,6 +1,6 @@
 ---
 title: "EViE 6th Conference"
-author: "Richard D. Amoako"
+author: "Richard Amoako"
 date: "2025-05-22"
 categories: [Conference]
 image: "evie-cover.jpg"

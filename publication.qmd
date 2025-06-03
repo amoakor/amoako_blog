@@ -7,17 +7,17 @@ about:
 ::: {style="text-align: left;"}
 ### **Peer Review Journal Article Publications**
 
--   Enos, J.Y., **Amoako, R.D.**, Doku, I.K. (2021). Utilization, Predictors and Gaps in the Continuum of Care for Maternal and Newborn Health in Ghana (2021). International Journal of Maternal and Child Health and AIDS (IJMA), 10(1);98-108. https://doi.org/10.21106/ijma.425
--   **Amoako, R. D**. ., Doku , I. K. ., & Enos , J. Y. . (2020). Predictors of Antenatal Care Utilization in the East Akim Municipality of Ghana. International Journal of Sciences: Basic and Applied Research (IJSBAR), 54(3), 42–58. Retrieved from https://www.gssrr.org/index.php/JournalOfBasicAndApplied/article/view/11826
+-   Enos, J.Y., **Amoako, R.D.**, Doku, I.K. (2021). Utilization, Predictors and Gaps in the Continuum of Care for Maternal and Newborn Health in Ghana (2021). *International Journal of Maternal and Child Health and AIDS (IJMA)*, 10(1);98-108. <https://doi.org/10.21106/ijma.425>
+-   **Amoako, R. D**. ., Doku , I. K. ., & Enos , J. Y. . (2020). Predictors of Antenatal Care Utilization in the East Akim Municipality of Ghana. *International Journal of Sciences: Basic and Applied Research (IJSBAR)*, 54(3), 42–58. Retrieved from <https://www.gssrr.org/index.php/JournalOfBasicAndApplied/article/view/11826>
 
 ### **Published Book Chapters**
 
--   **Amoako, R. D. (2024)**. Discussion of Artificial Intelligence Innovations and Challenges for Paramedicine. IntechOpen. http://doi.org/10.5772/intechopen.115530
--   Enos, J. Y., **Amoako, R.D**., Enos, S.K., Hayford, B. & Tette, M.E. “Perspective Chapter: Challenges to Postnatal Care in Sub-Saharan Africa – A Review” in Connell, T. (Ed.). (2024). Contemporary Challenges in Postnatal Care. Intech Open. Doi: http://doi.org/10.5772/intechopen.113846
+-   **Amoako, R. D. (2024)**. Discussion of Artificial Intelligence Innovations and Challenges for Paramedicine. IntechOpen. <http://doi.org/10.5772/intechopen.115530>
+-   Enos, J. Y., **Amoako, R.D**., Enos, S.K., Hayford, B. & Tette, M.E. “Perspective Chapter: Challenges to Postnatal Care in Sub-Saharan Africa – A Review” in Connell, T. (Ed.). (2024). Contemporary Challenges in Postnatal Care. Intech Open. <http://doi.org/10.5772/intechopen.113846>
 
 ### **Preprints**
 
--   **Amoako, R. D.** Spatial Analysis of Fire Incidents and Urban Vulnerabilities in the Accra Metropolis of Ghana. https://www.researchsquare.com/article/rs-5285054/v1
+-   **Amoako, R. D.** Spatial Analysis of Fire Incidents and Urban Vulnerabilities in the Accra Metropolis of Ghana. <https://www.researchsquare.com/article/rs-5285054/v1>
 
 ### **Blog Posts**
 
@@ -27,7 +27,8 @@ about:
 
 ### **Manuscripts Under Review**
 
--   **Amoako, R. D.** & Morrow, J. A. Development and Initial Validation of the Comprehensive AI Integration Readiness Survey. Submitted to the International Journal of Teaching and Learning in Higher Education (IJTLHE).
--   **Amoako, R. D.** Towards a Culturally Responsive Evaluation Framework for Rural Appalachian School Mental Health Programs. Submitted to the Journal of Appalachian Studies.
--   Zahra, F.T., **Amoako, R. D.** Artificial Intelligence in Higher Education: A Systematic Review of Applications, Perceptions, and Ethical Considerations. Submitted to the International Journal of Artificial Intelligence in Education.
+-   **Amoako, R. D** & Morrow, J. A. A Systematic Review of Instruments and Frameworks for Measuring Faculty AI Integration Knowledge, Attitudes, and Behaviors in Higher Education. Submitted to the *International Journal of Artificial Intelligence in Education (IJAIED)*
+-   **Amoako, R. D.** & Morrow, J. A. Development and Initial Validation of the Comprehensive AI Integration Readiness Survey. Submitted to the *International Journal of Teaching and Learning in Higher Education (IJTLHE)*.
+-   **Amoako, R. D.** Towards a Culturally Responsive Evaluation Framework for Rural Appalachian School Mental Health Programs. Submitted to the *Journal of Appalachian Studies*.
+-   Zahra, F.T., **Amoako, R. D.** Artificial Intelligence in Higher Education: A Systematic Review of Applications, Perceptions, and Ethical Considerations. Submitted to the *International Journal of Artificial Intelligence in Education*.
 :::

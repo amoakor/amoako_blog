@@ -15,7 +15,7 @@ title-block-banner: true
 
 [![](images/head.jpg){width="224"}](https://hihello.me/p/0d856d87-1815-4d3c-b92d-ad2867db52ed)
 
-## **Richard Amoako**
+## **Richard D. Amoako**
 
 *PhD Student \| Researcher \| Evaluator \| AI Enthusiast \| Data Scientist \| Author*
 
