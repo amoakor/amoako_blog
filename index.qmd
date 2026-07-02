@@ -17,6 +17,6 @@ title-block-banner: true
 
 ## **Richard D. Amoako**
 
-*PhD Student \| Researcher \| Evaluator \| AI Enthusiast \| Data Scientist \| Author*
+*PhD\| Researcher \| Evaluation Specialist \| AI Enthusiast \| Data Scientist \| Author*
 
-Email: ramoako\@rd-amoako.com
+Email: contact\@rd-amoako.com
