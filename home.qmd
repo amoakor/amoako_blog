@@ -11,10 +11,10 @@ page-layout: full
 title-block-banner: true
 ---
 
-**Richard Amoako (MPH, MS)**
+**Richard D. Amoako (PhD)**
 
 [![](posts/my-new-post/head.jpg){width="195"}](tiny.utk.edu/ramoako)
 
-*PhD Student \| Researcher \| Evaluator \| AI Enthusiast \| Data Scientist \| Author*
+*Researcher \| Evaluator \| AI Enthusiast \| Data Scientist \| Author*
 
 Email: contact\@rd-amoako.com
